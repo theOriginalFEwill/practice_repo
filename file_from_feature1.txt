@@ -1,1 +1,3 @@
 intial feature1 text
+
+line added from fix-bug1
