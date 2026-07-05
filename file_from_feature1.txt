@@ -1,1 +1,3 @@
-intial feature1 text
+initial feature1 text
+
+added by feature2
